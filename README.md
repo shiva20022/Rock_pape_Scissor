@@ -1,1 +1,3 @@
-# Rock_pape_Scissor
+# Rock Paper Scissor
+
+Live link: https://rock-paper-scissorr.netlify.app/
