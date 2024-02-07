@@ -1,3 +1,1 @@
-# Rock Paper Scissor
-
-Live link: https://rock-paper-scissorr.netlify.app/
+This is Demo For Git Class
